@@ -1,0 +1,39 @@
+TEAM PROJECT LOG DEMO 1 CPSC233
+
+NAME: MARK TREMBLAY
+TUTORIAL SECTION: T01
+LECTURE SECTION: L01
+TEAM: T01-04
+
+CODE WORKED ON:
+
+	ANIMATIONAPPLICATION.JAVA 
+
+		JANUARY 30TH worked on AnimationApplication.java (at least an hour)
+		FEB 1ST worked on AnimationApplication.java (at least an hour)
+		FEB 2ND worked on AnimationApplication.java (at least an hour)
+		FEB 3RD worked on AnimationApplication.java (at least an hour)
+		FEB 4TH worked on AnimationApplication.java (at least an hour)
+		FEB 5TH worked on AnimationApplication.java (at least an hour)
+		FEB 6TH worked on AnimationApplication.java (at least an hour)
+		FEB 7TH worked on AnimationApplication.java (at least an hour)
+		FEB 12TH worked on AnimationApplication.java (one hour)
+
+		On the AnimationApplication I accomplished 
+		creating a class to handle instantiating
+		new objects from other classes, organizing
+		these instantiated objects into arrays for
+		easy referencing, and used my teammates classes
+		and methods to create a main method that runs
+		the game with functionality appropriate for DEMO 1;
+		using their input, suggestions, and code as an aid in 
+		the creation of these elements.
+
+MEETINGS ATTENDED:
+
+	1. MONDAY JANUARY 22nd at 3:00 P.M. (1-2hrs) [all members attended]
+	2. WEDNESDAY JANUARY 24th at 3:00 P.M. (1-2hrs) [all members attended]
+	3. MONDAY JANUARY 29th at 3:00 P.M. (1-2hrs) [all members attended]
+	3. WEDNESDAY JANUARY 31st at 3:00 P.M. (1-2hrs) [all members attended]
+	4. MONDAY FEBRUARY 5TH at 3:00 P.M. (1-2hrs) [all members attended]
+	5. WEDNESDAY FEBRUARY 7TH at 3:00 P.M. - 5:20 P.M. [all members attended]
